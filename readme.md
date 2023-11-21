@@ -1,5 +1,4 @@
 # Digital Communications
-[Prof. Sundeep Rangan, NYU](http://wireless.engineering.nyu.edu/sundeep-rangan/):
 
 
 This repository provides instructional material for 
